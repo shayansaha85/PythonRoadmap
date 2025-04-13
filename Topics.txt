@@ -1,0 +1,91 @@
+Python E2E Topics
+====================
+
+Basics
+-------
+- Syntax - Overall
+- Variables and Data Types
+- Calculation
+- Conditions
+- Loops
+- Type Casting
+- Exception
+- Functions
+
+Data Structures
+---------------
+- List
+- Tuple
+- Set
+- Dictionary
+- Exercise
+
+DSA (Data Structures & Algorithms)
+----------------------------------
+- Arrays
+- Linked List
+- Hash Tables
+- Heaps
+- Stacks
+- Queues
+- Binary Search Tree
+- Recursion
+- Sorting Algorithms
+- Lambda
+- Decorator
+
+Builtin & Custom Features
+--------------------------
+- Module
+- Lambda
+- Decorator
+- Iterator
+- Regular Expression
+
+OOP - Object Oriented Programming
+---------------------------------
+- Class
+- Inheritance
+- Methods, Dunder
+
+Package Manager
+----------------
+- PyPI
+- Pip
+- Conda
+- uv
+- Poetry
+
+Common Packages
+----------------
+- pyproject.toml
+
+Others
+-------
+- List Comprehensions
+- Generator Expressions
+- Paradigms
+- Context Manager
+
+Concurrency
+------------
+- Multi-processing
+- Asynchrony
+- GIL
+- Threading
+
+Testing
+--------
+- Tox
+- Nose
+- Unittest / pyUnit
+- Doctest
+- PyTest
+
+
+Streams
+--------
+Backend           - FastAPI, Django, Flask
+Automation (Web)  - Selenium  
+DevOps / SRE      - Toil Management (Anything | Automation ++)
+AI | Data Science / Data Analysis - Comprehensive Topic
