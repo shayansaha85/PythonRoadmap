@@ -3,10 +3,9 @@ Python E2E Topics
 
 Basics
 -------
-- Syntax - Overall
-- Variables and Data Types
-- Calculation
-- Conditions
+- Variables and Data Types ✅
+- Calculation ✅
+- Conditions ✅
 - Loops
 - Type Casting
 - Exception
